@@ -1,0 +1,4 @@
+baseURL = 'https://atelier.nanao.moe/'
+languageCode = 'en-us'
+title = 'Atelier Damillora'
+theme = 'hugo-book'
