@@ -1,13 +1,12 @@
 ---
-title: Rorona
+title: Castorice
 weight: 1
 ---
 
-# Rorona
+# Castorice
 
 ## Namesake
-
-Rororina Fryxell from Atelier Rorona (it was Resleriana that gave a spelling that I can go with...)
+[Castorice](https://honkai-star-rail.fandom.com/wiki/Castorice) from Honkai Star Rail.
 
 ## Specifications
 
@@ -20,4 +19,4 @@ Rororina Fryxell from Atelier Rorona (it was Resleriana that gave a spelling tha
 
 ## Screenshots
 
-![Rorona default desktop](/images/rorona/1.jpg)
+![Castorice default desktop](/images/castorice/1.jpg)

@@ -1,4 +1,4 @@
-baseURL = 'https://atelier.nanao.moe/'
+baseURL = 'https://selene.nanao.moe/'
 languageCode = 'en-us'
-title = 'Atelier Damillora'
+title = 'Selene Lab'
 theme = 'hugo-book'

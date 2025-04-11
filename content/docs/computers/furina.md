@@ -1,13 +1,13 @@
 ---
-title: Totori
+title: Furina
 weight: 2
 ---
 
-# Totori
+# Furina 
 
 ## Namesake
 
-Totooria Helmold from Atelier Totori
+[Furina](https://genshin-impact.fandom.com/wiki/Furina) from Genshin Impact
 
 ## Specifications
 
@@ -19,4 +19,4 @@ Totooria Helmold from Atelier Totori
 
 ## Screenshots
 
-![Totori default desktop](/images/totori/1.jpg)
+![Furina default desktop](/images/furina/1.jpg)
